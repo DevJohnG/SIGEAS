@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5AE64E6E-9540-460D-BBC1-607E70E71534}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Gestion_Admin.My.MyApplication</StartupObject>
+    <RootNamespace>Gestion_Admin</RootNamespace>
+    <AssemblyName>Gestion_Admin</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Gestion_Admin.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Gestion_Admin.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Capa_Datos\AsistenciasBD.vb" />
+    <Compile Include="Capa_Datos\EmpleadosBD.vb" />
+    <Compile Include="Capa_Datos\HorarioBD.vb" />
+    <Compile Include="Capa_Datos\PlanillaBD.vb" />
+    <Compile Include="Capa_Logica\AsistenciasLogica.vb" />
+    <Compile Include="Capa_Logica\EmpleadoLogica.vb" />
+    <Compile Include="Capa_Logica\HorarioLogica.vb" />
+    <Compile Include="Capa_Logica\PlanillaLogica.vb" />
+    <Compile Include="Capa_Presentacion\AsistenciaVista.Designer.vb">
+      <DependentUpon>AsistenciaVista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa_Presentacion\AsistenciaVista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa_Presentacion\EmpleadosVista.Designer.vb">
+      <DependentUpon>EmpleadosVista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa_Presentacion\EmpleadosVista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa_Presentacion\HorarioVista.Designer.vb">
+      <DependentUpon>HorarioVista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa_Presentacion\HorarioVista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa_Presentacion\index.Designer.vb">
+      <DependentUpon>index.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa_Presentacion\index.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa_Presentacion\LoginAdministracion.Designer.vb">
+      <DependentUpon>LoginAdministracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa_Presentacion\LoginAdministracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa_Presentacion\PanelAdmin.Designer.vb">
+      <DependentUpon>PanelAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa_Presentacion\PanelAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa_Presentacion\PlanillaVista.Designer.vb">
+      <DependentUpon>PlanillaVista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa_Presentacion\PlanillaVista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa_Presentacion\RegistrarUsuario.Designer.vb">
+      <DependentUpon>RegistrarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa_Presentacion\RegistrarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Capa_Presentacion\AsistenciaVista.resx">
+      <DependentUpon>AsistenciaVista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa_Presentacion\EmpleadosVista.resx">
+      <DependentUpon>EmpleadosVista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa_Presentacion\HorarioVista.resx">
+      <DependentUpon>HorarioVista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa_Presentacion\index.resx">
+      <DependentUpon>index.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa_Presentacion\LoginAdministracion.resx">
+      <DependentUpon>LoginAdministracion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa_Presentacion\PanelAdmin.resx">
+      <DependentUpon>PanelAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa_Presentacion\PlanillaVista.resx">
+      <DependentUpon>PlanillaVista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa_Presentacion\RegistrarUsuario.resx">
+      <DependentUpon>RegistrarUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Modern Global Network Company Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Modern Global Network Company Logo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Modern Global Network Company Logo %282%29 - copia - copia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Modern Global Network Company Logo %282%29 - copia - copia - copia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Modern Global Network Company Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Modern Global Network Company Logo %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Modern Global Network Company Logo %283%29 - copia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Modern Global Network Company Logo %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Modern Global Network Company Logo %282%29 - copia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asistencia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FISC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UTP.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
