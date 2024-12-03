@@ -1,149 +1,149 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\johne\\source\\repos\\Semestral\\",
+  "WorkspaceRootPath": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|c:\\users\\johne\\source\\repos\\semestral\\gestion_admin\\capa_presentacion\\loginadministracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\loginadministracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\loginadministracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\loginadministracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_datos\\horariobd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_datos\\horariobd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_datos\\planillabd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_datos\\planillabd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_datos\\empleadosbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_datos\\empleadosbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_datos\\asistenciasbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_datos\\asistenciasbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\planillavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\planillavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\planillavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\planillavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\resources\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\resources\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\capa_presentacion\\sistemamarcado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\sistemamarcado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\asistenciavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\asistenciavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\asistenciavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\asistenciavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\paneladmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|c:\\users\\johne\\documents\\github\\sigeas\\gestion_admin\\capa_presentacion\\paneladmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\paneladmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\empleadosvista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\empleadosvista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\empleadosvista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\registrarusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\asistenciavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\asistenciavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\loginadministracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\loginadministracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\loginadministracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\loginadministracion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_datos\\horariobd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_datos\\horariobd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_datos\\planillabd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_datos\\planillabd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_datos\\empleadosbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_datos\\empleadosbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_datos\\asistenciasbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_datos\\asistenciasbd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\planillavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\planillavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\planillavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\planillavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\resources\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\resources\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\capa_presentacion\\sistemamarcado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_presentacion\\sistemamarcado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\asistenciavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\asistenciavista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\registrarusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\registrarusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\horariovista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\horariovista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\horariovista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\empleadosvista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\empleadosvista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\empleadosvista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\registrarusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\registrarusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\registrarusuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\horariovista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\horariovista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\horariovista.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\capa_logica\\asistencialogica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\capa_logica\\asistencialogica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_logica\\asistencialogica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\capa_datos\\asistenciadb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\capa_datos\\asistenciadb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_datos\\asistenciadb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\capa_datos\\usuariosdb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\capa_datos\\usuariosdb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Sistema_de_Marcado.vbproj|solutionrelative:semestral\\capa_datos\\usuariosdb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_logica\\planillalogica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_logica\\planillalogica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_logica\\planillalogica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_logica\\asistenciaslogica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_logica\\asistenciaslogica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_logica\\asistenciaslogica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_presentacion\\paneladmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_presentacion\\paneladmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_presentacion\\paneladmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_logica\\empleadologica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_logica\\empleadologica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_logica\\empleadologica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\gestion_admin\\capa_logica\\horariologica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\gestion_admin\\capa_logica\\horariologica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5AE64E6E-9540-460D-BBC1-607E70E71534}|Gestion_Admin\\Gestion_Admin.vbproj|solutionrelative:gestion_admin\\capa_logica\\horariologica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Semestral.vbproj|C:\\Users\\johne\\source\\repos\\Semestral\\semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Semestral.vbproj|C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{F7D7B2B6-CEE9-40AB-B43C-88E56B19363D}|Semestral\\Semestral.vbproj|solutionrelative:semestral\\capa_presentacion\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -154,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -183,81 +183,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "index.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\index.vb",
-              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\index.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\index.vb",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\index.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Title": "LoginAdministracion.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
+              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
+              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-02T12:12:34.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\Login.vb",
-              "RelativeDocumentMoniker": "Semestral\\Capa_Presentacion\\Login.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\Login.vb [Design]",
-              "RelativeToolTip": "Semestral\\Capa_Presentacion\\Login.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-30T19:36:54.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "index.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\index.vb",
-              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\index.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\index.vb [Design]",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\index.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-02T12:12:29.947Z"
+              "WhenOpened": "2024-12-02T08:14:07.352Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\Login.vb",
-              "RelativeDocumentMoniker": "Semestral\\Capa_Presentacion\\Login.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\Login.vb",
-              "RelativeToolTip": "Semestral\\Capa_Presentacion\\Login.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Title": "AsistenciaVista.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
+              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
+              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-30T19:36:55.912Z"
+              "WhenOpened": "2024-12-02T07:52:02.818Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginAdministracion.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
-              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb [Design]",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb [Design]",
+              "Title": "EmpleadosVista.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
+              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
+              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-02T07:53:10.431Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-02T07:52:26.789Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginAdministracion.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
-              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Title": "PanelAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
+              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb [Design]",
+              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-02T08:14:07.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:53:21.363Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "LoginAdministracion.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
+              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb",
+              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\LoginAdministracion.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T07:53:10.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "index.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\index.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Presentacion\\index.vb",
               "RelativeDocumentMoniker": "Semestral\\Capa_Presentacion\\index.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\index.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Presentacion\\index.vb",
               "RelativeToolTip": "Semestral\\Capa_Presentacion\\index.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -265,11 +251,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Presentacion\\Login.vb",
+              "RelativeDocumentMoniker": "Semestral\\Capa_Presentacion\\Login.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Presentacion\\Login.vb",
+              "RelativeToolTip": "Semestral\\Capa_Presentacion\\Login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-30T19:36:55.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\index.vb",
+              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\index.vb",
+              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\index.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\index.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T12:12:29.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Presentacion\\Login.vb",
+              "RelativeDocumentMoniker": "Semestral\\Capa_Presentacion\\Login.vb",
+              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\Login.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-30T19:36:54.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\index.vb",
+              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\index.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\index.vb",
+              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\index.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T12:12:34.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "EmpleadosBD.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Datos\\EmpleadosBD.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Datos\\EmpleadosBD.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Datos\\EmpleadosBD.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Datos\\EmpleadosBD.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Datos\\EmpleadosBD.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Datos\\EmpleadosBD.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -277,11 +309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "HorarioBD.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Datos\\HorarioBD.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Datos\\HorarioBD.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Datos\\HorarioBD.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Datos\\HorarioBD.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Datos\\HorarioBD.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Datos\\HorarioBD.vb",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -289,22 +321,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "index.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\index.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Presentacion\\index.vb",
               "RelativeDocumentMoniker": "Semestral\\Capa_Presentacion\\index.vb",
               "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\index.vb [Design]",
-              "RelativeToolTip": "Semestral\\Capa_Presentacion\\index.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\index.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-12-02T13:22:47.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PlanillaBD.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Datos\\PlanillaBD.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Datos\\PlanillaBD.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Datos\\PlanillaBD.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Datos\\PlanillaBD.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Datos\\PlanillaBD.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Datos\\PlanillaBD.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -312,11 +344,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "AsistenciasBD.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Datos\\AsistenciasBD.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Datos\\AsistenciasBD.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Datos\\AsistenciasBD.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Datos\\AsistenciasBD.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Datos\\AsistenciasBD.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Datos\\AsistenciasBD.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -324,34 +356,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "PlanillaVista.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb",
               "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb [Design]",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-30T22:38:55.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\App.config",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\App.config",
               "RelativeDocumentMoniker": "Gestion_Admin\\App.config",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\App.config",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\App.config",
               "RelativeToolTip": "Gestion_Admin\\App.config",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-30T19:12:02.339Z"
+              "WhenOpened": "2024-11-30T19:12:02.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Resources\\App.config",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Resources\\App.config",
               "RelativeDocumentMoniker": "Semestral\\Resources\\App.config",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Resources\\App.config",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Resources\\App.config",
               "RelativeToolTip": "Semestral\\Resources\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -359,22 +392,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "SistemaMarcado.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\SistemaMarcado.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Presentacion\\SistemaMarcado.vb",
               "RelativeDocumentMoniker": "Semestral\\Capa_Presentacion\\SistemaMarcado.vb",
               "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\SistemaMarcado.vb [Design]",
-              "RelativeToolTip": "Semestral\\Capa_Presentacion\\SistemaMarcado.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\SistemaMarcado.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-12-02T07:50:11.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "PlanillaVista.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\PlanillaVista.vb",
               "ViewState": "AgIAACYAAAAAAAAAAAD4v3cAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -382,11 +415,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\App.config",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\App.config",
               "RelativeDocumentMoniker": "Semestral\\App.config",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\App.config",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\App.config",
               "RelativeToolTip": "Semestral\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -394,22 +427,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PanelAdmin.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
-              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb [Design]",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-02T07:53:21.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "AsistenciaVista.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
               "ViewState": "AgIAAAMAAAAAAAAAAAAEwAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -417,34 +439,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AsistenciaVista.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
-              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb [Design]",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\AsistenciaVista.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-02T07:52:02.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EmpleadosVista.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
-              "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb [Design]",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-02T07:52:26.789Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 22,
               "Title": "RegistrarUsuario.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb",
               "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb [Design]",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-30T22:28:00.256Z"
             },
@@ -452,10 +452,10 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "HorarioVista.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb",
               "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb [Design]",
-              "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-12-02T07:52:59.336Z"
             },
@@ -463,9 +463,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "EmpleadosVista.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\EmpleadosVista.vb",
               "ViewState": "AgIAACAAAAAAAAAAAAAjwCkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -475,9 +475,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "RegistrarUsuario.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\RegistrarUsuario.vb",
               "ViewState": "AgIAAAwAAAAAAAAAAAAswBkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -487,9 +487,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "HorarioVista.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\HorarioVista.vb",
               "ViewState": "AgIAAD0AAAAAAAAAAAArwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -499,9 +499,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "AsistenciaLogica.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Logica\\AsistenciaLogica.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Logica\\AsistenciaLogica.vb",
               "RelativeDocumentMoniker": "Semestral\\Capa_Logica\\AsistenciaLogica.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Logica\\AsistenciaLogica.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Logica\\AsistenciaLogica.vb",
               "RelativeToolTip": "Semestral\\Capa_Logica\\AsistenciaLogica.vb",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -511,9 +511,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "AsistenciaDB.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Datos\\AsistenciaDB.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Datos\\AsistenciaDB.vb",
               "RelativeDocumentMoniker": "Semestral\\Capa_Datos\\AsistenciaDB.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Datos\\AsistenciaDB.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Datos\\AsistenciaDB.vb",
               "RelativeToolTip": "Semestral\\Capa_Datos\\AsistenciaDB.vb",
               "ViewState": "AgIAAAYAAAAAAAAAAAAywBEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -523,9 +523,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "UsuariosDB.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Datos\\UsuariosDB.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Datos\\UsuariosDB.vb",
               "RelativeDocumentMoniker": "Semestral\\Capa_Datos\\UsuariosDB.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Datos\\UsuariosDB.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Datos\\UsuariosDB.vb",
               "RelativeToolTip": "Semestral\\Capa_Datos\\UsuariosDB.vb",
               "ViewState": "AgIAABwAAAAAAAAAAAAUwCcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -535,9 +535,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "AsistenciasLogica.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Logica\\AsistenciasLogica.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Logica\\AsistenciasLogica.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Logica\\AsistenciasLogica.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Logica\\AsistenciasLogica.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Logica\\AsistenciasLogica.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Logica\\AsistenciasLogica.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -547,9 +547,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "PlanillaLogica.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Logica\\PlanillaLogica.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Logica\\PlanillaLogica.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Logica\\PlanillaLogica.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Logica\\PlanillaLogica.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Logica\\PlanillaLogica.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Logica\\PlanillaLogica.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -559,9 +559,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "HorarioLogica.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Logica\\HorarioLogica.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Logica\\HorarioLogica.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Logica\\HorarioLogica.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Logica\\HorarioLogica.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Logica\\HorarioLogica.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Logica\\HorarioLogica.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -571,9 +571,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "EmpleadoLogica.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Logica\\EmpleadoLogica.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Logica\\EmpleadoLogica.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Logica\\EmpleadoLogica.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Logica\\EmpleadoLogica.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Logica\\EmpleadoLogica.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Logica\\EmpleadoLogica.vb",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -583,9 +583,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "PanelAdmin.vb",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
               "RelativeDocumentMoniker": "Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
-              "ToolTip": "C:\\Users\\johne\\source\\repos\\Semestral\\Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
+              "ToolTip": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
               "RelativeToolTip": "Gestion_Admin\\Capa_Presentacion\\PanelAdmin.vb",
               "ViewState": "AgIAAAwAAAAAAAAAAAAUwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -595,7 +595,7 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Login.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\johne\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\Login.vb",
+              "DocumentMoniker": "C:\\Users\\johne\\Documents\\GitHub\\SIGEAS\\Semestral\\Capa_Presentacion\\Login.vb",
               "RelativeDocumentMoniker": "Semestral\\Capa_Presentacion\\Login.vb",
               "ToolTip": "C:\\Users\\maria\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\Login.vb [Dise\u00F1o]",
               "RelativeToolTip": "..\\..\\..\\..\\maria\\source\\repos\\Semestral\\Semestral\\Capa_Presentacion\\Login.vb [Dise\u00F1o]",
